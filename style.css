@@ -1,0 +1,19 @@
+
+#container{
+   border: 1px soild grey;
+   width: 30%; 
+   margin: 0 auto;
+   background-color:violet;
+   padding-left: 3%;
+   padding-top: 3%;
+   padding-bottom: 5%;
+   
+}
+input {
+    width: 80%;
+    height: 25px;
+    border-radius: 5PX;
+    box-shadow: 0ex;
+
+
+}
